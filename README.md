@@ -1,1 +1,1 @@
-# aprendendo-github
+# Esse projeto é para aprender a utilizar o Git e o Github
